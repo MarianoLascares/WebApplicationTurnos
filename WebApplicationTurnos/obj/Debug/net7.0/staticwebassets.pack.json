@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplicationTurnos.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplicationTurnos.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\css\\materialize.css",
+      "PackagePath": "staticwebassets\\css\\materialize.css"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\css\\materialize.min.css",
+      "PackagePath": "staticwebassets\\css\\materialize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\fullcalendar\\fullcalendar.print.css"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets\\fullcalendar\\fullcalendar.print.min.css"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\gcal.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\gcal.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\gcal.min.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\gcal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale-all.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale-all.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\af.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\be.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\be.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\da.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\de-at.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\de.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\el.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\en-ie.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\en-nz.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\es-do.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\es-us.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\es.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\et.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\he.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\id.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\is.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\it.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\lb.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ms-my.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\nl-be.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\th.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\fullcalendar\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\js\\fullCalendarApp.js",
+      "PackagePath": "staticwebassets\\js\\fullCalendarApp.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\js\\materialize.js",
+      "PackagePath": "staticwebassets\\js\\materialize.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\js\\materialize.min.js",
+      "PackagePath": "staticwebassets\\js\\materialize.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplicationTurnos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplicationTurnos.props",
+      "PackagePath": "build\\WebApplicationTurnos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplicationTurnos.props",
+      "PackagePath": "buildMultiTargeting\\WebApplicationTurnos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplicationTurnos.props",
+      "PackagePath": "buildTransitive\\WebApplicationTurnos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
