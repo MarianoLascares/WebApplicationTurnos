@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2vdzt2bKHr3eAk++myM3Oaez6bTLXk872PeIByHV7kQ=",
+  "Hash": "CPsZyxsbTrD6gp0LCrJuQ4VcsnTUzvUcGa4PdakRow4=",
   "Source": "WebApplicationTurnos",
   "BasePath": "_content/WebApplicationTurnos",
   "Mode": "Default",
@@ -119,12 +119,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.css",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\af.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/fullcalendar.css",
+      "RelativePath": "fullcalendar/locales/af.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\fullcalendar.css"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\af.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ar.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/fullcalendar.js",
+      "RelativePath": "fullcalendar/locales/ar.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\fullcalendar.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ar.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.min.css",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ar-dz.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/fullcalendar.min.css",
+      "RelativePath": "fullcalendar/locales/ar-dz.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\fullcalendar.min.css"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ar-dz.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.min.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ar-kw.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/fullcalendar.min.js",
+      "RelativePath": "fullcalendar/locales/ar-kw.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\fullcalendar.min.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ar-kw.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.print.css",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ar-ly.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/fullcalendar.print.css",
+      "RelativePath": "fullcalendar/locales/ar-ly.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\fullcalendar.print.css"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ar-ly.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\fullcalendar.print.min.css",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ar-ma.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/fullcalendar.print.min.css",
+      "RelativePath": "fullcalendar/locales/ar-ma.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\fullcalendar.print.min.css"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ar-ma.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\gcal.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ar-sa.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/gcal.js",
+      "RelativePath": "fullcalendar/locales/ar-sa.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\gcal.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ar-sa.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\gcal.min.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ar-tn.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/gcal.min.js",
+      "RelativePath": "fullcalendar/locales/ar-tn.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\gcal.min.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ar-tn.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\af.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\az.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/af.js",
+      "RelativePath": "fullcalendar/locales/az.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\af.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\az.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\bg.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ar.js",
+      "RelativePath": "fullcalendar/locales/bg.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ar.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\bg.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-dz.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\bs.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ar-dz.js",
+      "RelativePath": "fullcalendar/locales/bs.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ar-dz.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\bs.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-kw.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ca.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ar-kw.js",
+      "RelativePath": "fullcalendar/locales/ca.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ar-kw.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ca.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-ly.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\cs.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ar-ly.js",
+      "RelativePath": "fullcalendar/locales/cs.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ar-ly.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\cs.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-ma.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\da.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ar-ma.js",
+      "RelativePath": "fullcalendar/locales/da.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ar-ma.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\da.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-sa.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\de.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ar-sa.js",
+      "RelativePath": "fullcalendar/locales/de.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ar-sa.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\de.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ar-tn.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\el.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ar-tn.js",
+      "RelativePath": "fullcalendar/locales/el.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ar-tn.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\el.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\be.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\en-au.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/be.js",
+      "RelativePath": "fullcalendar/locales/en-au.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\be.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\en-au.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\bg.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\en-gb.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/bg.js",
+      "RelativePath": "fullcalendar/locales/en-gb.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\bg.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\en-gb.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\bs.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\en-nz.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/bs.js",
+      "RelativePath": "fullcalendar/locales/en-nz.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\bs.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\en-nz.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ca.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\es.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ca.js",
+      "RelativePath": "fullcalendar/locales/es.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ca.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\es.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\cs.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\es-us.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/cs.js",
+      "RelativePath": "fullcalendar/locales/es-us.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\cs.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\es-us.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\da.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\et.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/da.js",
+      "RelativePath": "fullcalendar/locales/et.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\da.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\et.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\de.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\eu.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/de.js",
+      "RelativePath": "fullcalendar/locales/eu.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\de.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\eu.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\de-at.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\fa.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/de-at.js",
+      "RelativePath": "fullcalendar/locales/fa.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\de-at.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\fa.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\de-ch.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\fi.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/de-ch.js",
+      "RelativePath": "fullcalendar/locales/fi.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\de-ch.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\fi.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\el.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\fr.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/el.js",
+      "RelativePath": "fullcalendar/locales/fr.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\el.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\fr.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-au.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\fr-ca.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/en-au.js",
+      "RelativePath": "fullcalendar/locales/fr-ca.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\en-au.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\fr-ca.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-ca.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\fr-ch.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/en-ca.js",
+      "RelativePath": "fullcalendar/locales/fr-ch.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\en-ca.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\fr-ch.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-gb.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\gl.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/en-gb.js",
+      "RelativePath": "fullcalendar/locales/gl.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\en-gb.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\gl.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-ie.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\he.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/en-ie.js",
+      "RelativePath": "fullcalendar/locales/he.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\en-ie.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\he.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\en-nz.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\hi.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/en-nz.js",
+      "RelativePath": "fullcalendar/locales/hi.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\en-nz.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\hi.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\es.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\hr.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/es.js",
+      "RelativePath": "fullcalendar/locales/hr.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\es.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\hr.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\es-do.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\hu.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/es-do.js",
+      "RelativePath": "fullcalendar/locales/hu.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\es-do.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\hu.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\es-us.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\id.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/es-us.js",
+      "RelativePath": "fullcalendar/locales/id.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\es-us.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\id.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\et.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\is.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/et.js",
+      "RelativePath": "fullcalendar/locales/is.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\et.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\is.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\eu.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\it.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/eu.js",
+      "RelativePath": "fullcalendar/locales/it.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\eu.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\it.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fa.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ja.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/fa.js",
+      "RelativePath": "fullcalendar/locales/ja.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\fa.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ja.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fi.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ka.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/fi.js",
+      "RelativePath": "fullcalendar/locales/ka.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\fi.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ka.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fr.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\kk.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/fr.js",
+      "RelativePath": "fullcalendar/locales/kk.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\fr.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\kk.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fr-ca.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ko.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/fr-ca.js",
+      "RelativePath": "fullcalendar/locales/ko.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\fr-ca.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ko.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\fr-ch.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\lb.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/fr-ch.js",
+      "RelativePath": "fullcalendar/locales/lb.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\fr-ch.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\lb.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\gl.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\lt.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/gl.js",
+      "RelativePath": "fullcalendar/locales/lt.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\gl.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\lt.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\he.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\lv.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/he.js",
+      "RelativePath": "fullcalendar/locales/lv.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\he.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\lv.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\hi.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\mk.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/hi.js",
+      "RelativePath": "fullcalendar/locales/mk.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\hi.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\mk.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\hr.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ms.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/hr.js",
+      "RelativePath": "fullcalendar/locales/ms.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\hr.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ms.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\hu.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\nb.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/hu.js",
+      "RelativePath": "fullcalendar/locales/nb.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\hu.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\nb.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\id.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ne.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/id.js",
+      "RelativePath": "fullcalendar/locales/ne.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\id.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ne.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\is.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\nl.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/is.js",
+      "RelativePath": "fullcalendar/locales/nl.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\is.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\nl.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\it.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\nn.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/it.js",
+      "RelativePath": "fullcalendar/locales/nn.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\it.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\nn.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ja.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\pl.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ja.js",
+      "RelativePath": "fullcalendar/locales/pl.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ja.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\pl.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ka.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\pt.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ka.js",
+      "RelativePath": "fullcalendar/locales/pt.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ka.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\pt.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\kk.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\pt-br.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/kk.js",
+      "RelativePath": "fullcalendar/locales/pt-br.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\kk.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\pt-br.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ko.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ro.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ko.js",
+      "RelativePath": "fullcalendar/locales/ro.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ko.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ro.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\lb.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ru.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/lb.js",
+      "RelativePath": "fullcalendar/locales/ru.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\lb.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ru.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\lt.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\sk.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/lt.js",
+      "RelativePath": "fullcalendar/locales/sk.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\lt.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\sk.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\lv.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\sl.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/lv.js",
+      "RelativePath": "fullcalendar/locales/sl.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,15 +1068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\lv.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\sl.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\mk.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\sq.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/mk.js",
+      "RelativePath": "fullcalendar/locales/sq.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\mk.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\sq.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ms.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\sr.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ms.js",
+      "RelativePath": "fullcalendar/locales/sr.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ms.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\sr.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ms-my.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\sr-cyrl.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ms-my.js",
+      "RelativePath": "fullcalendar/locales/sr-cyrl.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ms-my.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\sr-cyrl.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\nb.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\sv.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/nb.js",
+      "RelativePath": "fullcalendar/locales/sv.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\nb.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\sv.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\nl.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\th.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/nl.js",
+      "RelativePath": "fullcalendar/locales/th.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\nl.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\th.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\nl-be.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\tr.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/nl-be.js",
+      "RelativePath": "fullcalendar/locales/tr.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\nl-be.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\tr.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\nn.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\ug.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/nn.js",
+      "RelativePath": "fullcalendar/locales/ug.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\nn.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\ug.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\pl.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\uk.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/pl.js",
+      "RelativePath": "fullcalendar/locales/uk.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\pl.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\uk.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\pt.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\uz.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/pt.js",
+      "RelativePath": "fullcalendar/locales/uz.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\pt.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\uz.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\pt-br.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\vi.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/pt-br.js",
+      "RelativePath": "fullcalendar/locales/vi.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\pt-br.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\vi.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ro.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\zh-cn.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ro.js",
+      "RelativePath": "fullcalendar/locales/zh-cn.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,15 +1255,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ro.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\zh-cn.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\ru.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales\\zh-tw.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/ru.js",
+      "RelativePath": "fullcalendar/locales/zh-tw.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1272,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\ru.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales\\zh-tw.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sk.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales-all.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/sk.js",
+      "RelativePath": "fullcalendar/locales-all.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\sk.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales-all.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sl.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locales-all.min.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/sl.js",
+      "RelativePath": "fullcalendar/locales-all.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\sl.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\locales-all.min.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sq.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\main.css",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/sq.js",
+      "RelativePath": "fullcalendar/main.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\sq.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\main.css"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sr.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\main.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/sr.js",
+      "RelativePath": "fullcalendar/main.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\sr.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\main.js"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sr-cyrl.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\main.min.css",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/sr-cyrl.js",
+      "RelativePath": "fullcalendar/main.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\sr-cyrl.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\main.min.css"
     },
     {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\sv.js",
+      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\main.min.js",
       "SourceId": "WebApplicationTurnos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
       "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/sv.js",
+      "RelativePath": "fullcalendar/main.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,143 +1374,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\sv.js"
-    },
-    {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\th.js",
-      "SourceId": "WebApplicationTurnos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
-      "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/th.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\th.js"
-    },
-    {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\tr.js",
-      "SourceId": "WebApplicationTurnos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
-      "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/tr.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\tr.js"
-    },
-    {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\uk.js",
-      "SourceId": "WebApplicationTurnos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
-      "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/uk.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\uk.js"
-    },
-    {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\vi.js",
-      "SourceId": "WebApplicationTurnos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
-      "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/vi.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\vi.js"
-    },
-    {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\zh-cn.js",
-      "SourceId": "WebApplicationTurnos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
-      "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/zh-cn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\zh-cn.js"
-    },
-    {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\zh-hk.js",
-      "SourceId": "WebApplicationTurnos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
-      "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/zh-hk.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\zh-hk.js"
-    },
-    {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale\\zh-tw.js",
-      "SourceId": "WebApplicationTurnos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
-      "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale/zh-tw.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale\\zh-tw.js"
-    },
-    {
-      "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\fullcalendar\\locale-all.js",
-      "SourceId": "WebApplicationTurnos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\",
-      "BasePath": "_content/WebApplicationTurnos",
-      "RelativePath": "fullcalendar/locale-all.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fullcalendar\\locale-all.js"
+      "OriginalItemSpec": "wwwroot\\fullcalendar\\main.min.js"
     },
     {
       "Identity": "C:\\Users\\msika\\source\\repos\\WebApplicationTurnos\\WebApplicationTurnos\\wwwroot\\js\\fullCalendarApp.js",
